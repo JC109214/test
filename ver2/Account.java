@@ -15,7 +15,7 @@ public class Account {
 	}
 
 
-	// A "getter" method that simply returns the balance.
+	// A "getter" method that returns the balance.
 	public double getBalance() {
 		return balance;
 	}
